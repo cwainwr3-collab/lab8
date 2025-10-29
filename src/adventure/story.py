@@ -30,3 +30,4 @@ if __name__ == "__main__":
             break
         
         print("[green]"+step(choice, events)+"[/green]")
+    print("[yellow]The forest bids you goodbye[/yellow]")
